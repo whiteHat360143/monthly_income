@@ -1,2 +1,2 @@
 # monthly_income
-My project highlights the price predictions of used cars.
+My project highlights the monthly income of 10 persons.
